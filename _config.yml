@@ -21,7 +21,7 @@
 title: Stephanie C.Y. Chan
 email: chan.stephanie.cy@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal website for Stephanie C.Y. Chan.
+  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://scychan.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scychan_brains

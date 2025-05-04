@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I'm currently a Staff Research Scientist at Google Deepmind. My current research revolves around two key themes:
+* The science of understanding modern AI models, much as we would try to understand the brain as an object of study. A lot of this work focus on in-context learning in transformers.
+* Using AI to empower humans, e.g. through education.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Before joining Google / DeepMind, I led small research teams at AI-based startups based in Boston, Barcelona, and Hong Kong. I did my PhD in computational neuroscience at Princeton, and at MIT a BS in physics and a BS in brain and cognitives sciences.
 
 
-[jekyll-organization]: https://github.com/jekyll
