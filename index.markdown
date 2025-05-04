@@ -70,3 +70,7 @@ AK Lampinen\*, A Chaudhry\*, SCY Chan\*, C Wild, D Wan, A Ku, J Bornschein, R Pa
 [Paper](https://arxiv.org/abs/2412.16429) /
 [Gemini API](https://ai.google.dev/gemini-api/docs/learnlm)
 (2025)
+
+## **Full list of publications**
+
+[Google Scholar](http://scholar.google.com/citations?user=bXOt49QAAAAJ)
