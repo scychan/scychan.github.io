@@ -82,11 +82,11 @@ It’s also probably not as effective to intervene only on the external states, 
 
 If there are other ideas that you recommend, please share!
 
-![Reverse the loop!](/assets/posts/loop/loop-reversed.png)
-
 By intervening on our internal state, we can have higher confidence. This makes us more comfortable with taking action. This then leads to more learning, growth, and success, which then leads to higher confidence!
 
 By reversing the loop in this way, we can then move out of the trough of imposter syndrome.
+
+![Reverse the loop!](/assets/posts/loop/loop-reversed.png)
 
 <h2 id="conclusion">Conclusion</h2>
 
