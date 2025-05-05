@@ -72,9 +72,9 @@ I think many of us tend to gravitate towards solutions in one basket or the othe
 
 But I think that we often have to do *both*, for maximal effectiveness.
 
-It’s probably not as effective to intervene only on the internal state, because it’s so helpful to have real growth, learning, and success in the external world.
+It’s probably less effective to intervene only on the internal state, because it’s so helpful to have real growth, learning, and success in the external world.
 
-It’s also probably not as effective to intervene only on the external states, if our confidence is so low that that is difficult to do. The other thing is to remember: taking externally-impactful action (those that lead to feedback and outcomes) is different from pure volume of work, as I mentioned above.
+It’s also probably less effective to intervene only on the external states, if our confidence is so low that that is difficult to do. The other thing is to remember: taking externally-impactful action (those that lead to feedback and outcomes) is different from pure volume of work, as I mentioned above.
 
 ![Ideas for intervening on internal state](/assets/posts/loop/intervene-internal.png)
 
@@ -94,5 +94,5 @@ By reversing the loop in this way, we can then move out of the trough of imposte
 
 **Key idea 2: Break the cycle at both points** — we need interventions on both internal and external states → this can reverse the loop!
 
-I hope that this framework might be helpful to you, and that you might not need to spend as much time in the imposter syndrome as I did. But in any case, please know that imposter syndrome is very common, and please do not feel alone if you are experiencing it.
+I hope that this framework might be helpful to you, and that you might not need to spend as much time in the imposter syndrome as I did. In any case, however, please know that imposter syndrome is very common, and please do not feel alone if you are experiencing it.
 
