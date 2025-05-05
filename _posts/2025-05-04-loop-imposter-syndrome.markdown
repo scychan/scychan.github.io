@@ -92,9 +92,7 @@ By reversing the loop in this way, we can then move out of the trough of imposte
 
 **Key idea 1: The loop of imposter syndrome** — low confidence feeds inaction, which feeds low confidence, which feeds inaction, ...
 
-**Key idea 2: Break the cycle at both points** — need interventions on both internal and external states → this can reverse the loop!
+**Key idea 2: Break the cycle at both points** — we need interventions on both internal and external states → this can reverse the loop!
 
 I hope that this framework might be helpful to you, and that you might not need to spend as much time in the imposter syndrome as I did. But in any case, please know that imposter syndrome is very common, and please do not feel alone if you are experiencing it.
-
-
 
