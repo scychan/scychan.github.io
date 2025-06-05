@@ -5,7 +5,7 @@ title: Selected research
 layout: home
 ---
 
-## **Science of language models and in-context learning**
+## **Science of transformers and language models**
 **Data Distributional Properties Drive Emergent In-Context Learning in Transformers**\
 SCY Chan, A Santoro, AK Lampinen, JX Wang, A Singh, PH Richemond, J McClelland, F Hill\
 [Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/77c6ccacfd9962e2307fc64680fc5ace-Abstract-Conference.html) / 

@@ -94,5 +94,5 @@ By reversing the loop in this way, we can then move out of the trough of imposte
 
 **Key idea 2: Break the cycle at both points** — we need interventions on both internal and external states → this can reverse the loop!
 
-I hope that this framework might be helpful to you, and that you might not need to spend as much time in the imposter syndrome as I did. In any case, however, please know that imposter syndrome is very common, and please do not feel alone if you are experiencing it.
+I hope that this framework might be helpful to you, and that it might help you exit the imposter syndrome more quickly than I did. In any case, however, please know that imposter syndrome is very common, and please do not feel alone if you are experiencing it.
 
