@@ -4,7 +4,7 @@ Before money, societies were mostly based on credit and debit systems, with bart
 
 **In the age of AGI…** If we consider a potential world where AI is truly *general*, it can thus be converted to anything else (including money). Money has value because it buys resources, labor, and influence. In an age of AGI, AI could perform tasks using compute, such that:
 
-* it could help obtain resources  
+* it could help obtain resources, especially in concert with robotics
 * compute *is* a kind of labor and can help you obtain more  
 * it can obtain influence (sometimes quite directly, by communicating directly with those that you wish to influence)
 
