@@ -47,8 +47,7 @@ It’s not clear that compute would have these properties and functions. Let’s
 | ***fungibility*** | Compute hardware is highly heterogeneous. And even identical chips can perform differently based on network, memory, location (latency), time of day, etc. ❌ | << Ditto ❌ |
 | ***divisibility*** | Infrastructure generally has a minimum viable scale and is not divisible – this is a large part of why cloud computing arose in the first place ❌ | Credits could potentially be priced in a very divisible way, e.g. via FLOPs, tokens, or compute hours.  ✅ |
 | ***portability*** | Hardware is not easy to move, though there may exist markets for trading ownership and control over hardware. | Credits will likely won’t be accepted across providers. However, you could conceivably transfer your credits to other owners. ✅ |
-| ***durability*** | Hardware is not physically durable, and can fail or degrade over time. ❌ | Credits may have some expiration, but will likely be durable over medium periods of time, like money. ✅ |
-|  | As with fiat money, the *value* of compute can rise or fall over time. We will return to this [later](#which-more-valuable). | << Ditto |
+| ***durability*** | Hardware is not physically durable, and can fail or degrade over time. ❌ <br><br> As with fiat money, the *value* of compute can rise or fall over time. We will return to this [later](#which-more-valuable). | Credits may have some expiration, but will likely be durable over medium periods of time, like money. ✅ <br><br> <<Ditto re variability of value |
 
 Compute credits could fulfill more of these properties than compute infrastructure, and thus be more likely to fulfill the functions of money. However, neither fits the bill perfectly.
 
