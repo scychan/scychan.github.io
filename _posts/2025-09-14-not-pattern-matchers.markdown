@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "LLMs are not just statistical pattern matchers"
+date:   2025-09-14 10:01 -0700
+categories: 
+---
+
+I still hear people say that LLMs are "just statistical pattern matchers" without grounded understanding. This probably reflects the influential arguments of [Bender and Koller 2020](https://aclanthology.org/2020.acl-main.463.pdf) and the famous octopus example, which have a lot of validity.
+
+But there are two major reasons we should update these views:
+
+**1. Meaning and understanding can arise in important ways from the relationships between words.**
+
+This was articulated by Steve Piantadosi and Felix Hill in a [paper](https://arxiv.org/abs/2208.02957) that's beautifully rooted in psycholinguistics, philosophy, and AI empirical research. For example:
+- Reference to real-world objects is not necessary for meaning ("justice", "wit"). In fact, meaning can arise largely from relationships to other concepts ("postage stamp" <= "payment", "letter", "delivery")
+- LLMs recover key geometry of color space, despite text-only training
+- Larger models increasingly match human semantic judgments and brain activity patterns
+
+["Do language models refer?"](https://direct.mit.edu/coli/article/50/3/1191/121670/Do-Language-Models-Words-Refer) (Mandelkern and Linzen 2024) is also a very fun read. It describes how, in human language (and possibly in LLMs too), reference is often achieved by having the right causal-historical chains back to an original grounding, rather than through direct grounding to the world.
+
+**2. LLMs are now trained in a fundamentally different way c.f. 2020**
+
+Autoregressive self-supervised training on large corpuses is now only a part of training -- the other major part is via multi-step reinforcement learning. For example, Grok4 spent 50% of its train compute on RL.
+
+This means:
+- LLMs are trained to be goal-oriented, not just learning statistics.
+- Models are actively exploring and developing novel sequences of actions that were never seen in pretraining data.
+- They receive meaningful grounding, via consequential feedback (rewards).
+
+
+**Takeaway**
+
+Again, I think there's a lot of validity to Bender and Koller's arguments, and that current LLMs lack grounding in fundamental ways, compared to humans. Nonetheless, I think it's fundamentally untrue (esp in 2025) that LLMs are "just statistical pattern matchers".
+
+
+More reading:
+* [The Vector Grounding Problem](https://arxiv.org/abs/2304.01481) (Molho, Millière 2023)
+* [Symbols and grounding in large language models](https://royalsocietypublishing.org/doi/10.1098/rsta.2022.0041) (Pavlick 2023)
