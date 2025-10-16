@@ -10,7 +10,7 @@ This framework really helped me when I was combating massive imposter syndrome, 
 
 Disclaimer: I am not a mental health professional, and I am just sharing something that was helpful for me, in case it will be helpful for you.
 
-If you want to skip the intro and go straight to the framework, click [here](#key-idea-1).
+If you want to skip the intro and go straight to the framework, click [here](#key-idea-1).<br>Or see [Tweet summary](https://x.com/scychan_brains/status/1919098246112084420).
 
 Get ready for some diagrams!! :D
 
