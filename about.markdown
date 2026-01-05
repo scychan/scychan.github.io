@@ -8,4 +8,6 @@ I'm a Staff Research Scientist at Google DeepMind. I work primarily in two areas
 1. **Science of AI, especially in-context learning**. I try to understand modern AI systems as an object of study, much as neuroscientists and cognitive scientists try to understand the brain. A lot of my work focuses on understanding in-context learning in transformers.
 2. **AI to empower humans**. I believe that AI can be used to augment human potential and human capital, e.g. via education, if we do it responsibly and inclusively.
 
-I previously led small research teams at AI-based startups in Boston/Barcelona/Hong Kong. My PhD was in computational neuroscience at Princeton, focusing on reinforcement learning and episodic memory. At MIT, I did a BS in physics and a BS in brain and cognitive sciences.
+In my previous lives, I've done research in robotics, human memory and decision-making, and astrophysics. I've also done brain surgeries, built laser-optics rigs, and pitched to VCs.
+
+(I previously led small research teams at AI-based startups in Boston, Barcelona, and Hong Kong. My PhD was in computational neuroscience at Princeton, focusing on reinforcement learning and episodic memory. At MIT, I did a BS in physics and a BS in brain and cognitive sciences.)
