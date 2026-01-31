@@ -1,18 +1,10 @@
-Before money, societies were mostly based on credit and debit systems, with bartering on the margins. Eventually, most stable societies did develop money, and it’s the basis for any dynamic economy. What’s the next step in this evolution?
+Money wasn't humanity's first economic system -- most early societies ran on credit, debt, and obligation, with barter playing a marginal role. But eventually, nearly every stable civilization converged on money, and for good reason: money is universally convertible. It can be exchanged for almost anything else -- labor, resources, goods, influence. **Convertibility is what makes money powerful.**
 
-**The utility of money lies in its universal convertibility** into virtually any other resource, good, or service. Consequently, having control over money is incredibly powerful. 
-
-**In the age of AGI…** If we consider a potential world where AI is truly *general*, it can thus be converted to anything else (including money). Money has value because it buys resources, labor, and influence. In an age of AGI, AI could perform tasks using compute, such that:
-
-* it could help obtain resources, especially in concert with robotics
-* compute *is* a kind of labor and can help you obtain more  
-* it can obtain influence (sometimes quite directly, by communicating directly with those that you wish to influence)
-
-Thus, **compute also achieves its own kind of universal convertibility**, albeit via a different mechanism. It can do work and generate the above goods and outcomes for you.[^1]
+Now, consider what happens with the possible advent of artificial general intelligence... **A truly general AI, paired with sufficient compute, achieves its own form of universal convertibility.** It can perform labor directly and it can help acquire resources (especially in concert with robotics). It can generate influence -- sometimes quite directly, by communicating persuasively with the people you wish to influence. In other words, compute becomes exchangeable for nearly anything money can buy, just through a different mechanism.[^1]
 
 ![](/assets/posts/compute_as_money/make_me_money.png)
 
-In fact, compute might be even *more* convertible than money, if compute and AI can help obtain money, but money cannot always buy access to compute. This could happen if the compute is held by nation states or other entities that enforce restrictions on access.  
+In fact, compute might be even *more* convertible than money -- if compute and AI can help obtain money, but money cannot always buy access to compute. This could happen if the compute is held by nation states or other entities that enforce restrictions on access.  
 ![](/assets/posts/compute_as_money/asymmetry.png)
 
 What does this all mean? Does money get supplanted? Will it be more valuable to hold compute than money?
@@ -122,7 +114,7 @@ P.S. if you are an economist reading this, we need your help in thinking about t
 <br>
 
 
-[^1]:  It’s also convertible in the more classic sense, because it has intrinsic value and can be sold or traded on a market.
+[^1]:  It’s also convertible in the more classic sense, of course, because it can be sold or traded on a market. But the interesting thing here is that it has power and convertibility before you ever sell it.
 
 [^2]:  It might seem like compute has a lot of dependencies that money doesn’t have, e.g. on infrastructure and institutions and technological progress. But money also has dependence on institutions, financial infrastructure, and society stability, as we discuss a bit more [here](#which-more-valuable).
 
