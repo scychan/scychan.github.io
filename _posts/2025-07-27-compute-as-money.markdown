@@ -7,7 +7,9 @@ Now, consider what happens with the possible advent of artificial general intell
 In fact, compute might be even *more* convertible than money -- if compute and AI can help obtain money, but money cannot always buy access to compute. This could happen if the compute is held by nation states or other entities that enforce restrictions on access.  
 ![](/assets/posts/compute_as_money/asymmetry.png)
 
-**What does this all mean? Does money get supplanted? Will it be more valuable to hold compute than money?**
+What does this all mean?
+* **Does money get supplanted?**
+* **Will compute become more valuable than money?**
 
 ![](/assets/posts/compute_as_money/sama.png)
 
