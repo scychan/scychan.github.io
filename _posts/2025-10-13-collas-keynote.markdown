@@ -7,14 +7,17 @@ categories:
 
 # What happens after we solve continual learning?
 
-I recently gave this keynote at CoLLAS 2025.
+I recently gave this keynote at CoLLAS 2025, and also in Feb 2026 at Harvard and Stanford (updated slides below).
 
-The premise is simple: Our AI ecosystem assumes *static* models. When models start *continually* updating, much of AI evaluation and alignment goes out the window.
-
-These open challenges have deep connections to core ML/CL, which reveals a great opportunity!
+*Abstract:* Researchers often point to continual learning as a major missing component for modern AI models. With increased focus on this research area, we may soon find ourselves in a world with widely deployed continual learning agents. The benefits are endless, but continual learning also poses major challenges for AI safety and alignment — many existing techniques assume a single static base model (e.g. RLXF-based post-training), and are not suited for dynamically changing models. In this talk, I will lay out some challenges and examples. I will also describe potential starting points for technical solutions, drawing connections to catastrophic forgetting and to Quine’s “web of ideas”.
 <br>
 <br>
+----
 <br>
-Slides below // [Tweet summary](https://x.com/scychan_brains/status/1977860898883612742).
+<br>
+Slides below. Tweet summary [here](https://x.com/scychan_brains/status/1977860898883612742).
 
-<iframe src="{{ site.baseurl }}/assets/posts/2025_collas_slides/CoLLAS_2025_keynote.pdf" width="100%" height="600px"></iframe>
+The Harvard talk recording is [here](https://kempnerinstitute.harvard.edu/events/stephanie-chan/), but there were some issues with the audio. The CoLLAS talk recording is [here](https://www.youtube.com/watch?v=Ri6HNMOmfgk&t=449s), but it doesn't have the introductory primer to continual learning. The slides are the most complete.
+
+<iframe src="{{ site.baseurl }}/assets/posts/2025_collas_slides/Feb2026_update.pdf" width="100%" height="600px"></iframe>
+
