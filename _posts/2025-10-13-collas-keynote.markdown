@@ -9,7 +9,7 @@ categories:
 
 I recently gave this keynote at CoLLAS 2025, and also in Feb 2026 at Harvard and Stanford (updated slides below).
 
-*Abstract:* Researchers often point to continual learning as a major missing component for modern AI models. With increased focus on this research area, we may soon find ourselves in a world with widely deployed continual learning agents. The benefits are endless, but continual learning also poses major challenges for AI safety and alignment — many existing techniques assume a single static base model (e.g. RLXF-based post-training), and are not suited for dynamically changing models. In this talk, I will lay out some challenges and examples. I will also describe potential starting points for technical solutions, drawing connections to catastrophic forgetting and to Quine’s “web of ideas”.
+*Abstract:* Researchers often point to continual learning as a major missing component for modern AI models. With increased focus on this research area, we may soon find ourselves in a world with widely deployed continual learning agents. The benefits are endless, but continual learning also poses major challenges for AI evaluation and alignment — many existing techniques assume a single static base model (e.g. RLXF-based post-training), and are not suited for dynamically changing models. In this talk, I will lay out some challenges and examples. I will also describe potential starting points for technical solutions, drawing connections to catastrophic forgetting and to Quine’s “web of ideas”.
 <br>
 <br>
 ----
