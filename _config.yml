@@ -20,8 +20,10 @@
 
 title: Stephanie C.Y. Chan
 email: chan.stephanie.cy@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-
+description: >-
+  Personal website and blog of Stephanie C.Y. Chan, Staff Research Scientist
+  at Google DeepMind, working on the science of AI, AI for education, and the
+  future impacts of AI.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "scychan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: scychan_brains
